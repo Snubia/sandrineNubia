@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/sandrineNubia/static/css/main.1e082b80.chunk.css",
+    "main.js": "/sandrineNubia/static/js/main.19f80ea6.chunk.js",
+    "main.js.map": "/sandrineNubia/static/js/main.19f80ea6.chunk.js.map",
+    "runtime-main.js": "/sandrineNubia/static/js/runtime-main.da2c832a.js",
+    "runtime-main.js.map": "/sandrineNubia/static/js/runtime-main.da2c832a.js.map",
+    "static/css/2.86fbdad3.chunk.css": "/sandrineNubia/static/css/2.86fbdad3.chunk.css",
+    "static/js/2.ac94c09a.chunk.js": "/sandrineNubia/static/js/2.ac94c09a.chunk.js",
+    "static/js/2.ac94c09a.chunk.js.map": "/sandrineNubia/static/js/2.ac94c09a.chunk.js.map",
+    "index.html": "/sandrineNubia/index.html",
+    "static/css/2.86fbdad3.chunk.css.map": "/sandrineNubia/static/css/2.86fbdad3.chunk.css.map",
+    "static/css/main.1e082b80.chunk.css.map": "/sandrineNubia/static/css/main.1e082b80.chunk.css.map",
+    "static/js/2.ac94c09a.chunk.js.LICENSE.txt": "/sandrineNubia/static/js/2.ac94c09a.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sandrineNubia/static/media/flw.37965508.jpeg",
+    "static/media/glam.8a9a71cf.jpeg": "/sandrineNubia/static/media/glam.8a9a71cf.jpeg",
+    "static/media/prof.ed266beb.jpeg": "/sandrineNubia/static/media/prof.ed266beb.jpeg",
+    "static/media/techy.db1db3c2.jpeg": "/sandrineNubia/static/media/techy.db1db3c2.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.da2c832a.js",
+    "static/css/2.86fbdad3.chunk.css",
+    "static/js/2.ac94c09a.chunk.js",
+    "static/css/main.1e082b80.chunk.css",
+    "static/js/main.19f80ea6.chunk.js"
+  ]
+}
