@@ -5,12 +5,12 @@
   /* fallback for old browsers */
   background: -webkit-linear-gradient(to right,  rgb(134, 99, 130), rgb(134, 99, 130),rgb(134, 99, 130));
   /* Chrome 10-25, Safari 5.1-6 */
- background: linear-gradient(to right, rgb(172, 200, 212), rgb(172, 200, 212),rgb(172, 200, 212));
+ background: linear-gradient(to right, rgb(37, 71, 64), rgb(172, 200, 212),rgb(37, 104, 89));
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .landing-grid {
-  background-image: url(./images/world.jpeg);
+  background-image: url(./images/code.jpeg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -94,7 +94,7 @@
 }
 
 .contact-grid hr {
-  border-top: 5px dotted black;
+  border-top: 5px dotted white;
   width: 40%;
   margin: auto;
 }
@@ -113,7 +113,7 @@
 }
 
 .banner-text {
-  background-color: rgb(22, 36, 19);
+  background-color: rgb(172, 200, 212);
   opacity: .8;
   width: 45%;
   margin: auto;

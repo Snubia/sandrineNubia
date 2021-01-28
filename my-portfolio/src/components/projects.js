@@ -110,7 +110,7 @@ class Projects extends Component {
               industry. Lorem Ipsum has been the industry's
             </CardText>
             <CardActions border>
-              <Button href="https://limitless-citadel-93108.herokuapp.com/" colored>GitHub</Button>
+              <Button href="https://limitless-citadel-93108.herokuapp.com/" colored  target='_blank'>GitHub</Button>
 
               <Button colored>Live Demo</Button>
             </CardActions>
