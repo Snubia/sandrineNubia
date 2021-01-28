@@ -6,15 +6,7 @@ class Contact extends Component {
     return (
       <div className='contact-body'>
         <Grid className='contact-grid'>
-          <Cell col={6}>
-            <h2>Sandrine Nubia</h2>
-            <img src='contact.jpg' alt='avatar' style={{ height: '250px' }} />
-            <p style={{ width: '75%', margin: 'auto', paddingTop: '1em' }}>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since
-            </p>
-          </Cell>
+         
           <Cell col={6}>
             <h2>Contact Me</h2>
             <hr />
@@ -35,7 +27,37 @@ class Contact extends Component {
                     style={{ fontSize: '30px', fontFamily: 'Anton' }}
                   >
                     <i className='fa fa-envelope' aria-hidden='true' />
-                    nunubabila@gmail.com
+                    sandrinenubia@gmail.com
+                  </ListItemContent>
+                </ListItem>
+
+                <ListItem>
+                  <ListItemContent
+                    style={{ fontSize: '30px', fontFamily: 'Anton' }}
+                  >
+                     <a
+                  href='https://www.linkedin.com/in/sandrine-nubia-975aa2172/'
+                  rel='noopener noreferrer'
+                  target='_blank'
+                >
+                  <i className='fa fa-linkedin-square' aria-hidden='true' />
+                </a>
+                LinkedIn
+                  </ListItemContent>
+                </ListItem>
+
+                <ListItem>
+                  <ListItemContent
+                    style={{ fontSize: '30px', fontFamily: 'Anton' }}
+                  >
+                      <a
+                  href='https://github.com/Snubia'
+                  rel='noopener noreferrer'
+                  target='_blank'
+                >
+                  <i className='fa fa-github-square' aria-hidden='true' />
+                </a>
+                    Github
                   </ListItemContent>
                 </ListItem>
               </List>
