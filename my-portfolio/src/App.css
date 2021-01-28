@@ -1,14 +1,16 @@
 .header-color {
-  background-color: #40bf77;
+  background-color: rgb(23, 49, 37);
+  opacity: .8;
+  /*background-color: #40bf77;
   /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right,  #20603b, #20603b, #20603b);
+  background: -webkit-linear-gradient(to right,  rgb(134, 99, 130), rgb(134, 99, 130),rgb(134, 99, 130));
   /* Chrome 10-25, Safari 5.1-6 */
- background: linear-gradient(to right, #20603b, #20603b, #20603b);
+ background: linear-gradient(to right, rgb(172, 200, 212), rgb(172, 200, 212),rgb(172, 200, 212));
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 
 .landing-grid {
-  background-image: url(./images/flw.jpeg);
+  background-image: url(./images/world.jpeg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
@@ -37,7 +39,7 @@
 /* Resume Page css */
 .resume-right-col {
   
-  background-color: rgb(35, 116, 78);
+  background-color: rgb(42, 72, 92);
  
   color: white;
   position: absolute;
@@ -52,9 +54,10 @@
   width: 80%;
   height: 550px;
  
-  background-color: rgb(23, 49, 37);
-  opacity: .8;
+  background-color: rgb(31, 79, 100);
+  opacity: .9;
   color: white;
+  top: 400px;
   margin-bottom: 20px;
 }
 
@@ -75,7 +78,7 @@
   width: 80%;
   height: 550px;
  
-  background-color: rgb(35, 116, 78);
+  background-color: rgb(31, 79, 100);
   opacity: .8;
   color: white;
   margin-bottom: 20px;
@@ -110,15 +113,15 @@
 }
 
 .banner-text {
-  background-color: rgb(35, 116, 78);
+  background-color: rgb(22, 36, 19);
   opacity: .8;
-  width: 75%;
+  width: 45%;
   margin: auto;
-  border-radius: 10px;
+  border-radius: 20px;
   position: relative;
-  bottom: 10px;
-  top: 200px;
-  right: 0;
+  bottom: 20px;
+  top: 100px;
+  left: 5pc; 
 }
 
 .banner-text h1 {
