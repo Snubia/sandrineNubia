@@ -72,11 +72,10 @@ class Projects extends Component {
                 alt='avatar'
                 style={{ height: '400px' }}
               />
-              GlamHouse
+             imatchHearts
             </CardTitle>
             <CardText>
-              A complete E-commerce Website using Node.js, MongoDb, Ejs, Multer
-              and stripe for payment carts
+              A Mern Stack dating Website
             </CardText>
             <CardActions border>
               <Button href="" colored>GitHub</Button>
@@ -103,11 +102,11 @@ class Projects extends Component {
                 alt='avatar'
                 style={{ height: '175px' }}
               />
-              Employee Directory
+              GlamHouse
             </CardTitle>
             <CardText>
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's
+            A complete E-commerce Website using Node.js, MongoDb, Ejs, Multer
+              and stripe for payment carts
             </CardText>
             <CardActions border>
               <Button href="https://limitless-citadel-93108.herokuapp.com/" colored  target='_blank'>GitHub</Button>

@@ -13,7 +13,7 @@ class About extends Component {
             <h2>Sandrine Nubia</h2>
             <img src={prof} alt='avatar' style={{ height: '300px' }} />
             <p style={{ width: '75%', margin: 'auto', paddingTop: '1em' }}>
-            <h4>Forward Thinking Full-Stack Software Developer | Security and Privacy Compliance</h4>
+            <h4>Forward Thinking Full-Stack Software Developer / Security and Privacy Compliance</h4>
             </p>
           </Cell>
           <Cell col={6}>

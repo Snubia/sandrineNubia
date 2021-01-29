@@ -57,7 +57,7 @@ class Contact extends Component {
                 >
                   <i className='fa fa-github-square' aria-hidden='true' />
                 </a>
-                    Github
+                    GitHub
                   </ListItemContent>
                 </ListItem>
               </List>

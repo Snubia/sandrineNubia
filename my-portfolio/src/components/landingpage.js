@@ -18,7 +18,7 @@ class Landing extends Component {
 
               <p>
                 HTML/CSS | Bootstrap | JavaScript | React | MySQL | NodeJS |
-                Express | MongoDB| Python| C++ | Graphql
+                Express | MongoDB| Python| C++ | Graphql | DJANGO
               </p>
 
               <div className='social-links'>
